@@ -66,4 +66,4 @@ promedio=(num1+num2+num3)/3
 print(f"El promedio de los 3 numeros es: {promedio}")
 
 
-
+#Testeo de git.
