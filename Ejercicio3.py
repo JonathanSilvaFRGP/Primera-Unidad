@@ -1,5 +1,0 @@
-nombre= input("Ingrese su nombre: ")
-apellido= input(f"Ingrese su apellido,{nombre}: ")
-edad= input(f"Ingrese su edad,{nombre} {apellido}: ")
-nacion= input(f"Ingrese su nacionalidad {nombre} {apellido}: ")
-print(f"Soy {nombre} {apellido},tengo {edad} años y vivo en {nacion}")
